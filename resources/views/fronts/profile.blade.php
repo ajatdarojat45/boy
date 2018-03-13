@@ -24,6 +24,9 @@ Profile - Yosef Almedia Boy
             </center>
          </div>
       </div>
-      <center><a href="{{route('front/index')}}" class="btn btn-primary btn-sm"><i class="fa fa-arrow-left"></i> Back</a></center>
+      <center>
+         <a href="{{route('front/index')}}" class="btn btn-primary btn-sm"><i class="fa fa-arrow-left"></i> Back</a>
+         <a href="{{route('login')}}" class="btn btn-primary btn-sm"><i class="fa fa-sign-in"></i> Login</a>
+      </center>
    </div>
 @endsection

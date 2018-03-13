@@ -31,15 +31,15 @@
             <ul class="nav metismenu" id="side-menu">
                <li class="nav-header">
                   <div class="dropdown profile-element">
-                     <span>
+                     {{-- <span>
                         <img alt="image" class="img-circle" src="{{asset('inspinia/img/profile_small.jpg')}}" />
-                     </span>
-                     <a data-toggle="dropdown" class="dropdown-toggle" href="#">
+                     </span> --}}
+                     {{-- <a data-toggle="dropdown" class="dropdown-toggle" href="#">
                         <span class="clear">
                            <span class="block m-t-xs"> <strong class="font-bold">Ajat</strong></span>
                            <span class="text-muted text-xs block">IT<b class="caret"></b></span>
                         </span>
-                     </a>
+                     </a> --}}
                      <ul class="dropdown-menu animated fadeInRight m-t-xs">
                         <li><a href="#}">Profile</a></li>
                         <li><a href="contacts.html">Contacts</a></li>
